@@ -1,0 +1,16 @@
+requests
+boto3
+pyspark
+numpy
+python-dotenv
+aiohttp
+aioboto3
+pandas
+pyarrow
+matplotlib
+seaborn
+s3fs
+fastapi
+uvicorn[standard]
+jinja2
+cachetools
